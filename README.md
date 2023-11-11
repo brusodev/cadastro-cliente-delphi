@@ -1,3 +1,3 @@
 # Cadastro de Clientes Usando o Delphi
 
-### Neste projeto eu crio um tela de cadastro de cliente em Delphi para ter conhecimento em sistemas legacy.
+### Neste projeto eu crio uma tela de cadastro de cliente em Delphi para ter conhecimento em sistemas legacy.
